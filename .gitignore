@@ -49,4 +49,5 @@ coverage
 **/*.dot
 models.json
 
-!/data/sample.csv
+!notebooks/data/sample.csv
+!notebooks/data/column_nature.sample.csv
