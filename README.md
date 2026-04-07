@@ -74,13 +74,7 @@ Start Jupyter:
 jupyter notebook
 ```
 
-Recommended notebook workflow:
-
-1. `01_data_preprocessing.ipynb`
-2. `02_feature_engineering.ipynb`
-3. `03_model_training.ipynb`
-4. `04_model_evaluation.ipynb`
-5. `05_export_tree_artifacts.ipynb`
+It is recommended to run the notebooks sequentially
 
 The final notebook exports tree structures used by the visualisation interface.
 
