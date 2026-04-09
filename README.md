@@ -36,12 +36,6 @@ The visualisation interface enables users to:
 
 ## Python Environment
 
-Navigate into notebooks sub-directory
-
-```bash
-cd notebooks
-```
-
 Create a virtual environment and install dependencies.
 
 ```bash
